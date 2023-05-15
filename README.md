@@ -35,6 +35,7 @@ This application allows you to translate text extracted from PDF files. It's des
     ```bash
     git clone https://github.com/yourusername/pdf_translator.git
     ```
+    (Please remember to replace https://github.com/yourusername/pdf_translator.git with the actual URL of your repository on GitHub.)
 
 2. Change into the project directory.
 
